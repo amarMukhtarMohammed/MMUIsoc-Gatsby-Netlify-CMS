@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: AMR
+title: السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: The Manchester Metropolitan University Islamic Society
 mainpitch:
-  title: Why Kaldi
+  title: Who is MMU ISoc?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are vibrant, diverse and the largest student-run organization that aims to serve primarily all Muslim and non-Muslim students and staff at Manchester Metropolitan University. 
+    The society primarily aims to serve to the spiritual and academic needs of the Muslim students on campus and to promote the religion of Islam to non-Muslims. 
+    We are dedicated to catering the needs of the Muslim students in many ways including providing a clean and functional prayer facility and hosting educational, social and charitable events for students to attend. We also aim to be the representative voice for the Muslim students on campus. 
+    We invite everyone to join and aim to unify all Muslims regardless of their age, gender, ability, race, nationality or sect. We welcome you all, whether you are a Muslim, interested in Islam or simply finding a friendly face. You are more than welcome to join us and be part of something wonderful!
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
