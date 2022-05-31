@@ -1,25 +1,56 @@
 ---
-templateKey: "about-page"
+templateKey: about-page
 path: /about
 title: Meet Your ISoc Committee
 ---
+### MARIAMA KEBE
 
-### Shade-grown coffee
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### ALEEZA AFZAAL
 
-### Single origin
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### KULSUM NORAT
 
-### Sustainable farming
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### OSAMA RAZAQ
 
-### Direct sourcing
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
 
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### AYAN BUKHARI
 
-### Reinvest profits
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### ADAN HUSSAIN
+
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
+
+### MINAHIL AHMED
+
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
+
+### MARIAM CHOWDHURY
+
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
+
+### ANISAH KHAN
+
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
+
+### IFRAH MUZZAMMIL
+
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
+
+### NIDA ASIF
+
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
+
+### HAFSAH HAMMAR
+
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
+
+### NOOR CLARKE
+
+The President is the Chief Executive Officer of the society and is the Chairperson of the Board. The President is the spokesperson, representative and correspondent for the society in any external activities. If you require to contact the society regarding any collaborations or external work, please get in touch with the president.
