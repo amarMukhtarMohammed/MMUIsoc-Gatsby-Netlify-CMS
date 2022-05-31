@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
-image: https://t3.ftcdn.net/jpg/02/04/95/54/360_F_204955486_fdIONUeVztEPn2FkaJ5WyvS3mWxwyWnT.jpg
+image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
 heading: Our  Philosophy...
 subheading: The Manchester Metropolitan University Islamic Society
 mainpitch:
