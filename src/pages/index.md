@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
-image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+image: http://localhost:8000/static/534958a2cee3bb524a0bae118f2a4219/d85eb/home-jumbotron.webp
 heading: Our  Philosophy
 subheading: The Manchester Metropolitan University Islamic Society
 mainpitch:
@@ -18,22 +18,22 @@ description: We welcome everyone, whether you are a Muslim, interested in Islam
   ISoc.
 intro:
   blurbs:
-    - image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+    - image: http://localhost:8000/static/534958a2cee3bb524a0bae118f2a4219/d85eb/home-jumbotron.webp
       text: To provide excellence in Islamic education in order to balance the
         physical and spiritual development of MMU students. Moreover, Islamic
         education deals with universal education but also education for
         practical life and moral values.
-    - image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+    - image: http://localhost:8000/static/534958a2cee3bb524a0bae118f2a4219/d85eb/home-jumbotron.webp
       text: Promoting student cohesion. This is is the process of building shared
         ideals while simultaneously eliminating gaps. The Prophet P.B.U.H
         treated all people well, including non- Muslims. Allah enjoined
         fairness, kindness, good treatment and rendering back trust for Muslims
         and non-Muslims alike
-    - image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+    - image: http://localhost:8000/static/534958a2cee3bb524a0bae118f2a4219/d85eb/home-jumbotron.webp
       text: Addressing the needs of MMU students. Islam extends beyond worship and
         preaching, it's also about living, with justice and fairness, to make
         the world better tomorrow than it is today.
-    - image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+    - image: http://localhost:8000/static/534958a2cee3bb524a0bae118f2a4219/d85eb/home-jumbotron.webp
       text: To be a vehicle for beneficial change for all MMU students and the
         community around us. Our concern is for all human to to become the best
         possible version of themselves :)
@@ -44,11 +44,11 @@ main:
   description: description
   image1:
     alt: alt
-    image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+    image: http://localhost:8000/static/534958a2cee3bb524a0bae118f2a4219/d85eb/home-jumbotron.webp
   image2:
     alt: alt
-    image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+    image: http://localhost:8000/static/534958a2cee3bb524a0bae118f2a4219/d85eb/home-jumbotron.webp
   image3:
     alt: alt
-    image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+    image: http://localhost:8000/static/534958a2cee3bb524a0bae118f2a4219/d85eb/home-jumbotron.webp
 ---
